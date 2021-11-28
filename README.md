@@ -1,5 +1,5 @@
 # Tema
-
+--
 https://yoksel.github.io/tema/
 
 Simple color themes generator
